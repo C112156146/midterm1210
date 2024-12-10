@@ -1,1 +1,1 @@
-print("yo")
+print("嚕炳")
